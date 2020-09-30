@@ -42,4 +42,5 @@ Create Super user
     $ python manage.py createsuperuser
 
 Launch the app
+
     $ python manage.py runserver
