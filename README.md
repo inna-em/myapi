@@ -25,8 +25,8 @@ First make sure you have installed virtualenv. If not, run this:
     $ pip install virtualenv
 Then, Git clone this repo to your PC
 
-    $ git clone 
-    $ cd 
+    $ git clone https://github.com/inna-em/myapi.git
+    $ cd myapi
 Create a virtual environment
 
     $ virtualenv .venv && source .venv/bin/activate
