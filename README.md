@@ -1,6 +1,6 @@
 # Persons API
 
-This API provides functionality of addind, updating and deleting user data.
+This API provides functionality for addind, updating and deleting user data.
 Following methods are supported:
 
 #### Jwt token endpoint
