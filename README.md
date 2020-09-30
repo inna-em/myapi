@@ -15,7 +15,7 @@ Method | Endpoint | Functionality
 GET | `/api/v1/persons/` | List existing user ids
 POST | `/api/v1/persons/` | Creates a user with provided name and surname
 GET | `/api/v1/persons/<person_id>/` | Returns user name, surname and has_vector flag by id
-PUT | `/api/v1/persons/` | Adds a serialized image to the user vecrot field
+PUT | `/api/v1/persons/` | Adds a serialized image to the user vector field
 GET | `/api/v1/persons/compare/<person_id1>/<person_id2>/` | Returns euclidian distance between users' vectors
 DELETE | `/api/v1/persons/<person_id>/` | Deletes a user
 
