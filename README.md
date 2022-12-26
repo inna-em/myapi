@@ -1,4 +1,4 @@
-# Persons API
+# Person API
 
 This API provides functionality for addind, updating and deleting user data.
 Following methods are supported:
